@@ -1,7 +1,7 @@
 {
   "name": "@dylangodfrey/github-pkg-demo",
   "repository": {
-    "url": "git://github.com/DylanGodfrey/github-pkg-demo.git"
+    "url": "git@github.com/DylanGodfrey/github-pkg-demo.git"
 },
   "version": "1.0.0",
   "description": "",
